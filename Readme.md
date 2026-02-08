@@ -1,3 +1,2 @@
 # swiggy-clone
 
-Swiggy clone
