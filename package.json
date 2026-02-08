@@ -1,0 +1,20 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "swiggy clone",
+  "license": "ISC",
+  "author": "nitin nihal",
+  "scripts": {
+    "test": "jest"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
